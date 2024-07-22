@@ -6,7 +6,7 @@
 
 ### <div align="center">Soy Programador Backend con experiencia en el desarrollo de aplicaciones web. Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos para ayudar a otros a alcanzar sus objetivos.
 -  Soy un profesional comprometido con la calidad y la excelencia en todo lo que hago. Disfruto trabajando en equipo y tengo habilidades de comunicación efectiva y colaboración.
-- 🎓  Recientemente he terminado el bootcamp de Soy Henry, actualmente sigo aprendiendo y creando nuevos proyectos por mi cuenta.
+- 🎓  Recientemente  termine el bootcamp de Soy Henry, actualmente sigo aprendiendo y creando nuevos proyectos por mi cuenta.
 </div>  
   
 
