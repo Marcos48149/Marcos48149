@@ -4,9 +4,9 @@
 # **Hola 👋, Soy marcos **  
   
 
-### <div align="center">Soy Programador Backend con experiencia en el desarrollo de aplicaciones web. Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos para ayudar a otros a alcanzar sus objetivos.
--  Soy un profesional comprometido con la calidad y la excelencia en todo lo que hago. Disfruto trabajando en equipo y tengo habilidades de comunicación efectiva y colaboración.
-- 🎓  Recientemente  termine el bootcamp de Soy Henry, actualmente sigo aprendiendo y creando nuevos proyectos por mi cuenta.
+### <div align="center">Soy Ingeniero de Datos y estudiante de la Tecnicatura Universitaria en Programacion.
+Me destaco por mi responsabilidad y autonomía a la hora de llevar a cabo tareas cruciales y soy el tipo de persona que si no sé la respuesta de algo, diría honestamente que no sé, pero puedo asegurar que investigaré a fondo hasta encontrarla.
+Asimismo, me considero una persona agradable a la hora de trabajar en equipo. Me enfoco siempre en desarrollar mi capacidad analítica y encontrar la mejor solución frente a problemas complejos. Soy proactivo y muy autodidacta.
 </div>  
   
 
@@ -17,6 +17,20 @@
 <table><tr><td valign="top" width="33%">
 
 
+
+### Data Engineering  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_spark.svg" alt="Apache Spark" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/hadoop.svg" alt="Hadoop" height="50" /></a>  
+<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kafka.svg" alt="Apache Kafka" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.databricks.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/databricks.svg" alt="Databricks" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
+<a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_airflow.svg" alt="Apache Airflow" height="50" /></a>  
+</div>
 
 ### Frontend  
 <div align="center">  
